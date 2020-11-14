@@ -1,5 +1,4 @@
-# Ignacio Ordovás Pascual - GITHUB profile
-### Data Analytics & Science | Astrophysics Research
+# Data Analytics & Science | Astrophysics Research
 ### Python | Numpy | Pandas | Matplotlib | Seaborn | MongoDB | MySQL | Machine Learning
 
 Hi there! I'm a data analyst and researcher based in Madrid. I'm currently coursing the IRONHACK Data Analytics bootcamp.
