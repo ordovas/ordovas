@@ -1,5 +1,6 @@
 # Data Analytics & Science | Astrophysics Research
-### Python | Numpy | Pandas | Matplotlib | Seaborn | MongoDB | MySQL | Machine Learning
+### Python | Numpy | Pandas | Matplotlib | Seaborn | LaTeX | IRAF
+### IDL | MongoDB | MySQL | Machine Learning | API | Web Scrapping
 
 Hi there! I'm a data analyst and researcher based in Madrid. I'm currently coursing the IRONHACK Data Analytics bootcamp.
 You can find me on [LinkedIn](https://www.linkedin.com/in/ignacio-ordov%C3%A1s-pascual-06376b1b8/), [Twitter](https://twitter.com/NachOrdo), or even [Instagram](https://www.instagram.com/nachordop/) for data unrelated stuff.
