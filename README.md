@@ -3,9 +3,9 @@
 ###
 
 Hi there! I'm a data analyst and researcher based in Madrid. I'm currently coursing the IRONHACK Data Analytics bootcamp.
-You can find me on [LinkedIn](https://www.linkedin.com/in/ignacio-ordov%C3%A1s-pascual-06376b1b8/), [Twitter](https://twitter.com/NachOrdo), or even [Instagram](https://www.instagram.com/nachordop/) for data unrelated stuff.
+You can find me on [LinkedIn](https://www.linkedin.com/in/ordovaspascual/), [Twitter](https://twitter.com/NachOrdo), or even [Instagram](https://www.instagram.com/nachordop/) for data unrelated stuff.
 
-#### Terrenal work:
+#### :earth_africa: Terrenal work:
 
 Here are some repos of the IRONHACK weekend exercises I'm completing:
 
@@ -13,7 +13,7 @@ Here are some repos of the IRONHACK weekend exercises I'm completing:
 2. [A word frequency based analysis of sharks attacks](https://github.com/nachordo/pandas-project)
 3. [500 best albums of all time / Spotify API project](https://github.com/nachordo/pipelines-project)
 
-#### Celestial work:
+#### :milky_way: Celestial work:
 
 If you are interested, you can find my astrophysics scientific papers and other contributions in [ADS](https://ui.adsabs.harvard.edu/search/q=author%3A%22ordov%C3%A1s-pascual%22&sort=date%20desc%2C%20bibcode%20desc&p_=0), or read my [PhD Thesis PDF](https://repositorio.unican.es/xmlui/bitstream/handle/10902/18024/Tesis%20IOP.pdf?sequence=1&isAllowed=y) (summary in spanish and english, but the rest is in english) if you want - it's about Super Massive Black Holes!
 
