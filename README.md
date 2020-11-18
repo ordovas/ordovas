@@ -12,6 +12,7 @@ Here are some repos of the IRONHACK weekend exercises I'm completing:
 1. [Hangman game, programmed in Python (moddable)](https://github.com/nachordo/mini-project)
 2. [A word frequency based analysis of sharks attacks](https://github.com/nachordo/pandas-project)
 3. [500 best albums of all time / Spotify API project](https://github.com/nachordo/pipelines-project)
+4. [GeoSpatial Data Project / Choosing the best location fro a gaming company](https://github.com/nachordo/geospatial-data-project)
 
 #### :milky_way: Celestial work:
 
