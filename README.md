@@ -13,6 +13,7 @@ Here are some repos of the IRONHACK weekend exercises I'm completing:
 2. [A word frequency based analysis of sharks attacks](https://github.com/nachordo/pandas-project)
 3. [500 best albums of all time / Spotify API project](https://github.com/nachordo/pipelines-project)
 4. [GeoSpatial Data Project / Choosing the best location for a gaming company](https://github.com/nachordo/geospatial-data-project)
+5. [API chat project and text sentiment analysis](https://github.com/nachordo/chat-api.git)
 
 #### :milky_way: Celestial work:
 
