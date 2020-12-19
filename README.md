@@ -1,5 +1,5 @@
 # Data Analytics & Science | Astrophysics Research
-### Python | Numpy | Pandas | Matplotlib | Seaborn | LaTeX | IRAF | IDL | MongoDB | MySQL | Machine Learning | API | Web Scrapping
+### Python | Numpy | Pandas | Matplotlib | Seaborn | LaTeX | IRAF | IDL | MongoDB | MySQL | Machine Learning | Deep Learning | API | Web Scrapping
 ###
 
 Hi there! I'm a data analyst and researcher based in Madrid. I'm currently coursing the IRONHACK Data Analytics bootcamp.
