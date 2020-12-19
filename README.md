@@ -14,6 +14,9 @@ Here are some repos of the IRONHACK weekend exercises I'm completing:
 3. [500 best albums of all time / Spotify API project](https://github.com/nachordo/pipelines-project)
 4. [GeoSpatial Data Project / Choosing the best location for a gaming company](https://github.com/nachordo/geospatial-data-project)
 5. [API chat project and text sentiment analysis](https://github.com/nachordo/chat-api.git)
+6. [Kaggle competition - Predicting diamonds prices](https://github.com/nachordo/kaggle-competition)
+
+**FINAL PROJECT:** [Dice Scores Recognition in image/video](https://github.com/nachordo/dice-scores-recognition)
 
 #### :milky_way: Celestial work:
 
