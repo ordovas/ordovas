@@ -1,4 +1,4 @@
-# Data Analytics & Science | Astrophysics Research
+# Data Science | Research
 ### Python | Numpy | Pandas | Matplotlib | Seaborn | LaTeX | IRAF | IDL | MongoDB | MySQL | Machine Learning | Deep Learning | API | Web Scrapping
 ###
 
