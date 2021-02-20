@@ -2,7 +2,8 @@
 ### Python | Numpy | Pandas | Matplotlib | Seaborn | LaTeX | IRAF | IDL | MongoDB | MySQL | Machine Learning | Deep Learning | API | Web Scraping
 
 
-Hi there! I'm a data scientist and researcher based in Madrid. I've recently coursed the IRONHACK Data Analytics bootcamp.
+Hi there! I am a data scientist with an academic background. I transform complex and large databases into precise, understable and useful pieces of knowledge. I'm always learning new tools to extract valuable information from datasets and improving my code skills. My research expertise in the astrophysics field allows me to mine those shiny data spots hidden in the darkness. I've recently coursed the IRONHACK Data Analytics bootcamp looking for a career change.
+
 You can find me on [LinkedIn](https://www.linkedin.com/in/ordovaspascual/), [Twitter](https://twitter.com/NachOrdo), or even [Instagram](https://www.instagram.com/nachordop/) 
 
 #### :earth_africa: Terrenal work:
