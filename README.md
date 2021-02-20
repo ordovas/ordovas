@@ -1,5 +1,5 @@
 # Data Science | Research
-### Python | Numpy | Pandas | Matplotlib | Seaborn | LaTeX | IRAF | IDL | MongoDB | MySQL | Machine Learning | Deep Learning | API | Web Scraping
+### Python | Numpy | Pandas | Matplotlib | Seaborn | LaTeX | IRAF | IDL | MongoDB | MySQL | TensorFlow | Keras | Scikit-learn | Machine Learning | Deep Learning | API | Web Scraping
 
 
 Hi there! I am a data scientist with an academic background. I transform complex and large databases into precise, understable and useful pieces of knowledge. I'm always learning new tools to extract valuable information from datasets and improving my code skills. My research expertise in the astrophysics field allows me to mine those shiny data spots hidden in the darkness. I've recently coursed the IRONHACK Data Analytics bootcamp looking for a career change.
