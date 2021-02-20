@@ -22,7 +22,10 @@ I’m currently practicing and learning new tools to improve my data scientist s
 
 #### :milky_way: Celestial work:
 
-You can find my astrophysics scientific research papers and other contributions in [ADS](https://ui.adsabs.harvard.edu/search/q=author%3A%22ordov%C3%A1s-pascual%22&sort=date%20desc%2C%20bibcode%20desc&p_=0), or read my [PhD Thesis PDF](https://repositorio.unican.es/xmlui/bitstream/handle/10902/18024/Tesis%20IOP.pdf?sequence=1&isAllowed=y) if you want (in english , summary in both spanish and english) - it's about Super Massive Black Holes!
+I've worked analyzing the relation (or lack of it) between the optical extinction, X-ray absorption and classification of Active Galactic Nuclei. Apart from that I've also worked using the k-means unsupervised classification algorithm applied to astronomical data. 
+
+
+You can find my astrophysics scientific research papers and other contributions in [ADS](https://ui.adsabs.harvard.edu/search/q=author%3A%22ordov%C3%A1s-pascual%22&sort=date%20desc%2C%20bibcode%20desc&p_=0), or read my [PhD Thesis PDF](https://repositorio.unican.es/xmlui/bitstream/handle/10902/18024/Tesis%20IOP.pdf?sequence=1&isAllowed=y) if you want (in english , summary in both spanish and english). 
 
 
 <!--
