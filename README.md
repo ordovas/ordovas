@@ -18,7 +18,12 @@ Here are some repos of the IRONHACK projects:
 6. [Kaggle competition - Predicting diamonds prices](https://github.com/nachordo/kaggle-competition)
 7. **FINAL PROJECT:** [Dice Scores Recognition in image/video](https://github.com/nachordo/dice-scores-recognition)
 
-I’m currently practicing and learning new tools to improve my data scientist skills. For example, here I show a small Web scraping and RegEx exercise to mine the japanese hardware and softare video game sales dataset. [Click here to have a look at my solution!](https://github.com/nachordo/vg_jp_sales). Feel free to have a look at other repositories even if they are uncomplete or not interesting enough to be shown in the profile.
+I’m currently practicing and learning new tools to improve my data scientist skills. For example:
+
+-[A small Web scraping and RegEx exercise to mine the japanese hardware and softare video game sales dataset.](https://github.com/nachordo/vg_jp_sales). 
+-[Predicting the numeric score of Amazon books review based exclusively on the text of the review using TF-IDF and Logistic Regression.](https://github.com/nachordo/amazon_books_reviews)
+
+Feel free to have a look at other repositories even if they are uncomplete or not interesting enough to be shown in the profile.
 
 #### :milky_way: Celestial work:
 
