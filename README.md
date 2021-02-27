@@ -22,7 +22,7 @@ I’m currently practicing and learning new tools to improve my data scientist s
 
 -[A small Web scraping and RegEx exercise to mine the japanese hardware and softare video game sales dataset.](https://github.com/nachordo/vg_jp_sales)
 
--[Predicting the numeric score of Amazon books review based exclusively on the text of the review using TF-IDF and Logistic Regression.](https://github.com/nachordo/amazon_books_reviews)
+-[Predicting the numeric ratings of Amazon books review based exclusively on the text of the review.](https://github.com/nachordo/amazon_books_reviews)
 
 Feel free to have a look at other repositories with other exercises, learning notebooks & code or simple tests, even if they are uncomplete or not interesting enough to be shown in the profile.
 
