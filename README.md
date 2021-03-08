@@ -20,7 +20,7 @@ Here are some repos of the IRONHACK projects:
 
 I’m currently practicing and learning new tools to improve my data scientist skills. For example:
 
--[A small Web scraping and RegEx exercise to mine the japanese hardware and softare video game sales dataset.](https://github.com/nachordo/vg_jp_sales)
+-[A small Web scraping and RegEx exercise to mine the japanese hardware and softare video game sales.](https://github.com/nachordo/vg_jp_sales)
 
 -[Predicting the numeric ratings of Amazon books review based exclusively on the text of the review.](https://github.com/nachordo/amazon_books_reviews)
 
