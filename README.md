@@ -18,7 +18,7 @@ Here are some repos of the IRONHACK projects:
 6. [Kaggle competition - Predicting diamonds prices](https://github.com/nachordo/kaggle-competition)
 7. **FINAL PROJECT:** [Dice Scores Recognition in image/video](https://github.com/nachordo/dice-scores-recognition)
 
-I’m currently practicing and learning new tools to improve my data scientist skills. For example:
+I’m currently practicing and learning new tools to improve my data scientist and coding skills. For example:
 
 -[A small Web scraping and RegEx exercise to mine the japanese hardware and softare video game sales.](https://github.com/nachordo/vg_jp_sales)
 
