@@ -1,4 +1,4 @@
-# Data Science | Research
+# Data Science
 ### Python | Numpy | Pandas | Matplotlib | Seaborn | LaTeX | IRAF | IDL | MongoDB | MySQL | TensorFlow | Keras | Scikit-learn | Machine Learning | Deep Learning | API | Web Scraping | Natural Language Processing
 
 
