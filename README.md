@@ -1,14 +1,14 @@
-# Data Science
+# Data Scientist
 ### Python | Numpy | Pandas | Matplotlib | Seaborn | LaTeX | IRAF | IDL | MongoDB | MySQL | TensorFlow | Keras | Scikit-learn | Machine Learning | Deep Learning | API | Web Scraping | Natural Language Processing
 
 
-Hi there! I am a data scientist with an academic background. I transform complex and large databases into precise, understable and useful pieces of knowledge. I'm always learning new tools to extract valuable information from datasets and improving my code skills. My research expertise in the astrophysics field allows me to mine those shiny data spots hidden in the darkness. I've recently coursed the IRONHACK Data Analytics bootcamp looking for a career change.
+Hi there! I am a data scientist with an academic background. I transform complex and large databases into precise, understable and useful pieces of knowledge. I'm always learning new tools to extract valuable information from datasets and improving my code skills. My research expertise in the astrophysics field allows me to mine those shiny data spots hidden in the darkness. After a career change, I've joined Cognizant as a data scientist.
 
 You can contact me on [LinkedIn](https://www.linkedin.com/in/ordovaspascual/), reach me via [e-mail](mailto:ordovaspascual@gmail.com), or even find me on [Instagram](https://www.instagram.com/nachordop/) for work unrelated stuff. 
 
 #### :earth_africa: Terrenal work:
 
-Here are some repos of the IRONHACK projects:
+Here are some repos of the IRONHACK Data Analytics bootcamp projects:
 
 1. [Hangman game, programmed in Python (moddable)](https://github.com/nachordo/mini-project)
 2. [A word frequency based analysis of sharks attacks](https://github.com/nachordo/pandas-project)
