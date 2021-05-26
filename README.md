@@ -4,7 +4,7 @@
 
 Hi there! I am a data scientist with an academic background. I transform complex and large databases into precise, understable and useful pieces of knowledge. I'm always learning new tools to extract valuable information from datasets and improving my code skills. My research expertise in the astrophysics field allows me to mine those shiny data spots hidden in the darkness. After a career change, I've joined Cognizant as a data scientist.
 
-You can contact me on [LinkedIn](https://www.linkedin.com/in/ordovaspascual/), reach me via [e-mail](mailto:ordovaspascual@gmail.com), or even find me on [Instagram](https://www.instagram.com/nachordop/) for work unrelated stuff. 
+You can contact me on [LinkedIn](https://www.linkedin.com/in/ordovaspascual/) or reach me via [e-mail](mailto:ordovaspascual@gmail.com). 
 
 #### :earth_africa: Terrenal work:
 
