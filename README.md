@@ -1,5 +1,5 @@
 # Data Scientist
-### Python | Machine Learning | Deep Learning | Numpy | Pandas | Computer Vision | Natural Language Processing | Matplotlib | LaTeX | IRAF | MongoDB | MySQL | TensorFlow | Keras | API | Web Scraping
+### Python | Machine Learning | Deep Learning | Numpy | Pandas | Computer Vision | Natural Language Processing | Azure ML | Matplotlib | LaTeX | IRAF | MongoDB | MySQL | TensorFlow | Keras | API | Web Scraping
 
 
 Hi there! I am a data scientist with an academic background. I transform complex and large databases into precise, understable and useful pieces of knowledge. I'm always learning new tools to extract valuable information from datasets and improving my code skills. My research expertise in the astrophysics field allows me to mine those shiny data spots hidden in the darkness. After a career change, I've joined Cognizant as a data scientist.
