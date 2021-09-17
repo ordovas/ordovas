@@ -6,6 +6,9 @@ Hi there! I am a data scientist with an academic background. I transform complex
 
 You can contact me on [LinkedIn](https://www.linkedin.com/in/ordovaspascual/) or reach me via [e-mail](mailto:ordovaspascual@gmail.com). 
 
+Certifications:
+[![AZ-900](https://virtualizadesdezero.com/wp-content/uploads/2020/10/azure-fundamentals-300x300.png)](https://www.credly.com/badges/525826f3-bad4-42b2-a243-043689d96d7d/linked_in)
+
 #### :earth_africa: Terrenal work:
 
 Here are some repos of the IRONHACK Data Analytics bootcamp projects:
