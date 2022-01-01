@@ -15,21 +15,21 @@ Certifications:
 
 Here are some repos of the IRONHACK Data Analytics bootcamp projects:
 
-1. [Hangman game, programmed in Python (moddable)](https://github.com/nachordo/mini-project)
-2. [A word frequency based analysis of sharks attacks](https://github.com/nachordo/pandas-project)
-3. [500 best albums of all time / Spotify API project](https://github.com/nachordo/pipelines-project)
-4. [GeoSpatial Data Project / Choosing the best location for a gaming company](https://github.com/nachordo/geospatial-data-project)
-5. [API chat project and text sentiment analysis](https://github.com/nachordo/chat-api.git)
-6. [Kaggle competition - Predicting diamonds prices](https://github.com/nachordo/kaggle-diamonds)
-7. **FINAL PROJECT:** [Dice Scores Recognition in image/video](https://github.com/nachordo/dice-scores-recognition)
+1. [Hangman game, programmed in Python (moddable)](https://github.com/ordovas/mini-project)
+2. [A word frequency based analysis of sharks attacks](https://github.com/ordovas/pandas-project)
+3. [500 best albums of all time / Spotify API project](https://github.com/ordovas/pipelines-project)
+4. [GeoSpatial Data Project / Choosing the best location for a gaming company](https://github.com/ordovas/geospatial-data-project)
+5. [API chat project and text sentiment analysis](https://github.com/ordovas/chat-api.git)
+6. [Kaggle competition - Predicting diamonds prices](https://github.com/ordovas/kaggle-diamonds)
+7. **FINAL PROJECT:** [Dice Scores Recognition in image/video](https://github.com/ordovas/dice-scores-recognition)
 
 I’m currently practicing and learning new tools to improve my data scientist and coding skills. For example:
 
--[A small Web scraping and RegEx exercise to mine the japanese hardware and softare video game sales.](https://github.com/nachordo/vg_jp_sales)
+-[A small Web scraping and RegEx exercise to mine the japanese hardware and softare video game sales.](https://github.com/ordovas/vg_jp_sales)
 
--[Predicting the numeric ratings of Amazon books review based exclusively on the text of the review.](https://github.com/nachordo/amazon_books_reviews)
+-[Predicting the numeric ratings of Amazon books review based exclusively on the text of the review.](https://github.com/ordovas/amazon_books_reviews)
 
--[Codewars exercises to practise SQL queries.](https://github.com/nachordo/SQLnotes)
+-[Codewars exercises to practise SQL queries.](https://github.com/ordovas/SQLnotes)
 
 Feel free to have a look at other repositories with other exercises, learning notebooks & code or simple tests, even if they are uncomplete or not interesting enough to be shown in the profile.
 
