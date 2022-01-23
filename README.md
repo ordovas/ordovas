@@ -6,7 +6,7 @@ Hi there! I am a data scientist with an academic background. I transform complex
 
 You can contact me on [LinkedIn](https://www.linkedin.com/in/ordovaspascual/) or reach me via [e-mail](mailto:ordovaspascual@gmail.com). 
 
-You can also have a look at my [personal webpage/portfolio](https://ordovas.github.io/)
+You can also have a look at my [personal webpage/portfolio.](https://ordovas.github.io/)
 
 Certifications:
 
