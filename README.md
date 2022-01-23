@@ -2,9 +2,11 @@
 ### Python | Machine Learning | Deep Learning | Numpy | Pandas | Computer Vision | Natural Language Processing | Azure ML | Matplotlib | LaTeX | IRAF | MongoDB | MySQL | TensorFlow | Keras | API | Web Scraping
 
 
-Hi there! I am a data scientist with an academic background. I transform complex and large databases into precise, understable and useful pieces of knowledge. I'm always learning new tools to extract valuable information from datasets and improving my code skills. My research expertise in the astrophysics field allows me to mine those shiny data spots hidden in the darkness. After a career change, I've joined Cognizant as a data scientist.
+Hi there! I am a data scientist with an academic background. I transform complex and large databases into precise, understandable and useful pieces of knowledge. I'm always learning new tools to extract valuable information from datasets and improving my code skills. My research expertise in the astrophysics field allows me to mine those shiny data spots hidden in the darkness. After a career change, I've joined Cognizant as a data scientist. As a data science consultant, I’m in charge of creating deep learning models or other AI approaches to solve customer needs.
 
 You can contact me on [LinkedIn](https://www.linkedin.com/in/ordovaspascual/) or reach me via [e-mail](mailto:ordovaspascual@gmail.com). 
+
+You can also have a look at my [personal webpage/portfolio](https://ordovas.github.io/)
 
 Certifications:
 
@@ -13,7 +15,17 @@ Certifications:
 
 #### :earth_africa: Terrenal work:
 
-Here are some repos of the IRONHACK Data Analytics bootcamp projects:
+I’m currently practicing and learning new tools to improve my data scientist and coding skills. For example:
+
+-[A small Web scraping and RegEx exercise to mine the japanese hardware and softare video game sales.](https://github.com/ordovas/vg_jp_sales)
+
+-[Predicting the numeric ratings of Amazon books review based exclusively on the text of the review.](https://github.com/ordovas/amazon_books_reviews)
+
+-[Codewars exercises to practise SQL queries.](https://github.com/ordovas/SQLnotes)
+
+-[Data Science demos deployed in Streamlit Cloud](https://share.streamlit.io/ordovas/private_streamlit_apps/main/app.py)
+
+Here are some repos of the IRONHACK Data Analytics bootcamp projects that I've done to switch to the data science world:
 
 1. [Hangman game, programmed in Python (moddable)](https://github.com/ordovas/mini-project)
 2. [A word frequency based analysis of sharks attacks](https://github.com/ordovas/pandas-project)
@@ -23,13 +35,7 @@ Here are some repos of the IRONHACK Data Analytics bootcamp projects:
 6. [Kaggle competition - Predicting diamonds prices](https://github.com/ordovas/kaggle-diamonds)
 7. **FINAL PROJECT:** [Dice Scores Recognition in image/video](https://github.com/ordovas/dice-scores-recognition)
 
-I’m currently practicing and learning new tools to improve my data scientist and coding skills. For example:
 
--[A small Web scraping and RegEx exercise to mine the japanese hardware and softare video game sales.](https://github.com/ordovas/vg_jp_sales)
-
--[Predicting the numeric ratings of Amazon books review based exclusively on the text of the review.](https://github.com/ordovas/amazon_books_reviews)
-
--[Codewars exercises to practise SQL queries.](https://github.com/ordovas/SQLnotes)
 
 Feel free to have a look at other repositories with other exercises, learning notebooks & code or simple tests, even if they are uncomplete or not interesting enough to be shown in the profile.
 
