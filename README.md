@@ -44,7 +44,7 @@ Feel free to have a look at other repositories with other exercises, learning no
 I've worked analyzing the relation (or lack of it) between the optical extinction, X-ray absorption and classification of Active Galactic Nuclei. Apart from that I've also worked using the k-means unsupervised classification algorithm applied to astronomical data. 
 
 
-You can find my astrophysics research papers and other contributions in [ADS](https://ui.adsabs.harvard.edu/search/q=author%3A%22ordov%C3%A1s-pascual%22&sort=date%20desc%2C%20bibcode%20desc&p_=0), or read my [PhD Thesis PDF](https://repositorio.unican.es/xmlui/bitstream/handle/10902/18024/Tesis%20IOP.pdf?sequence=1&isAllowed=y) if you want (text in english, summary in both spanish and english). 
+You can find my astrophysics research papers and other contributions in [ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0002-1993-0334&sort=date%20desc%2C%20bibcode%20desc&p_=0), or read my [PhD Thesis PDF](https://repositorio.unican.es/xmlui/bitstream/handle/10902/18024/Tesis%20IOP.pdf?sequence=1&isAllowed=y) if you want (text in english, summary in both spanish and english). 
 
 
 <!--
