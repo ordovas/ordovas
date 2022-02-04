@@ -2,7 +2,7 @@
 ### Python | Machine Learning | Deep Learning | Numpy | Pandas | Computer Vision | Natural Language Processing | Azure ML | Matplotlib | LaTeX | IRAF | MongoDB | MySQL | TensorFlow | Keras | API | Web Scraping
 
 
-Hi there! I am a data scientist with an academic background. I transform complex and large databases into precise, understandable and useful pieces of knowledge. I'm always learning new tools to extract valuable information from datasets and improving my code skills. My research expertise in the astrophysics field allows me to mine those shiny data spots hidden in the darkness. After a career change, I've joined Cognizant as a data scientist. As a data science consultant, I’m in charge of creating deep learning models or other AI approaches to solve customer needs.
+Hi there! I’m a versatile data science consultant based in Madrid. I’m capable of helping clients to solve their problems creatively and handle complex databases to obtain precise, understandable and useful insights. I have many years of analytical experience and I’ve recently started to fully adapt to a professional environment where I am involved in a cross functional client’s project as well as several internal projects involving machine learning pipelines. My experience helps me apply skills like teamwork, meeting deadlines, and communicating results and complex ideas effectively to a non-technical audience. I’m a curious and fast learner of latest techniques in data science. My research expertise in the astrophysics field allows me to mine those shiny data spots hidden in the darkness.
 
 You can contact me on [LinkedIn](https://www.linkedin.com/in/ordovaspascual/) or reach me via [e-mail](mailto:ordovaspascual@gmail.com). 
 
