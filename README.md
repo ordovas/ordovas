@@ -4,9 +4,16 @@
 
 Hi there! I’m a versatile data science consultant based in Madrid. I’m capable of helping clients to solve their problems creatively and handle complex databases to obtain precise, understandable and useful insights. I have many years of analytical experience and I’ve recently started to fully adapt to a professional environment where I am involved in a cross functional client’s project as well as several internal projects involving machine learning pipelines. My experience helps me apply skills like teamwork, meeting deadlines, and communicating results and complex ideas effectively to a non-technical audience. I’m a curious and fast learner of latest techniques in data science. My research expertise in the astrophysics field allows me to mine those shiny data spots hidden in the darkness.
 
-You can contact me on [LinkedIn](https://www.linkedin.com/in/ordovaspascual/) or reach me via [e-mail](mailto:ordovaspascual@gmail.com). 
+<a href="https://www.linkedin.com/in/ordovaspascual/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
+</a>
+<a href="https://ordovas.github.io/">
+<img src="https://img.shields.io/badge/Webpage-ordovas.github.io-purple">
+</a>
+<a href="mailto:ordovaspascual@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail&labelColor=white">
+</a>
 
-You can also have a look at my [personal webpage/portfolio.](https://ordovas.github.io/)
 
 Certifications:
 
