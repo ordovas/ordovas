@@ -15,7 +15,8 @@ Hi there! I’m a versatile data science consultant based in Madrid. I’m capab
 </a>
 
 
-Certifications:
+
+#### Certifications:
 
 
 [![AZ-900](https://virtualizadesdezero.com/wp-content/uploads/2020/10/azure-fundamentals-300x300.png)](https://www.credly.com/badges/525826f3-bad4-42b2-a243-043689d96d7d/linked_in)
