@@ -14,9 +14,8 @@ Hi there! I’m a versatile data science consultant based in Madrid. I’m capab
 <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail&labelColor=white">
 </a>
 <a href="https://share.streamlit.io/ordovas/private_streamlit_apps/main/app.py">
-<img src="https://img.shields.io/badge/DS demos in Streamlit-white?style=flat&logo=Streamlit">
+<img src="https://img.shields.io/badge/Data Science demos in Streamlit-white?style=flat&logo=Streamlit">
 </a>
-
 
 #### Certifications:
 
