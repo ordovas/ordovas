@@ -21,7 +21,7 @@ Hi there! I’m a versatile data science consultant based in Madrid. I’m capab
 
 
 <a href="https://www.credly.com/badges/525826f3-bad4-42b2-a243-043689d96d7d/linked_in">
-<img src="https://img.shields.io/badge/AZ 900- Microsoft Azure Fundamentals -white?style=flat&logo=microsoft&labelColor=blue">
+<img src="https://img.shields.io/badge/Microsoft Azure Fundamentals AZ--900 -blue?style=flat&logo=Microsoft Azure&labelColor=informational">
 </a>
 
 #### :earth_africa: Terrenal work:
