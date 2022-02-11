@@ -21,7 +21,9 @@ Hi there! I’m a versatile data science consultant based in Madrid. I’m capab
 #### Certifications:
 
 
-[![AZ-900](https://virtualizadesdezero.com/wp-content/uploads/2020/10/azure-fundamentals-300x300.png)](https://www.credly.com/badges/525826f3-bad4-42b2-a243-043689d96d7d/linked_in)
+<a href="https://www.credly.com/badges/525826f3-bad4-42b2-a243-043689d96d7d/linked_in">
+<img src="https://img.shields.io/badge/AZ 900- Microsoft Azure Fundamentals -white?style=flat&logo=microsoft&labelColor=blue">
+</a>
 
 #### :earth_africa: Terrenal work:
 
