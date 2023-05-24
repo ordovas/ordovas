@@ -2,7 +2,7 @@
 ### Python | Machine Learning | Deep Learning | Numpy | Pandas | Computer Vision | Natural Language Processing | Azure ML | Matplotlib | LaTeX | IRAF | MongoDB | MySQL | TensorFlow | Keras | API | Web Scraping
 
 
-Hi there! I’m a versatile data science consultant based in Madrid. I’m capable of helping clients to solve their problems creatively and handle complex databases to obtain precise, understandable and useful insights. I have many years of analytical experience and I’ve recently started to fully adapt to a professional environment where I am involved in a cross functional client’s project as well as several internal projects involving machine learning pipelines. My experience helps me apply skills like teamwork, meeting deadlines, and communicating results and complex ideas effectively to a non-technical audience. I’m a curious and fast learner of latest techniques in data science. My research expertise in the astrophysics field allows me to mine those shiny data spots hidden in the darkness.
+Hi there! I’m a versatile data science consultant based in Madrid. I’m capable of helping clients to solve their problems creatively and handle complex databases to obtain precise, understandable and useful insights. With a strong scientific background and extensive experience as a Data Scientist, I thrive in the dynamic environment of professional consulting. Having contributed to cross-functional client projects and internal initiatives focused on ML pipelines, I excel in teamwork, meeting deadlines, and effectively communicating complex ideas to non-technical audiences. As a curious and fast learner, I continuously embrace the latest data science techniques, ensuring adaptability and delivering tangible results. My research expertise in the astrophysics field allows me to mine those shiny data spots hidden in the darkness.
 
 <a href="https://ordovas.github.io/">
 <img src="https://img.shields.io/badge/Webpage-ordovas.github.io-purple">
@@ -26,7 +26,7 @@ Hi there! I’m a versatile data science consultant based in Madrid. I’m capab
 
 #### :earth_africa: Terrenal work:
 
-I’m currently practicing and learning new tools to improve my data scientist and coding skills. For example:
+I’m always practicing and learning new tools to improve my data scientist and coding skills. These are some examples I did on my own unrelated with my current job:
 
 -[A small Web scraping and RegEx exercise to mine the japanese hardware and softare video game sales.](https://github.com/ordovas/vg_jp_sales)
 
@@ -36,7 +36,7 @@ I’m currently practicing and learning new tools to improve my data scientist a
 
 -[Data Science demos deployed in Streamlit Cloud](https://share.streamlit.io/ordovas/private_streamlit_apps/main/app.py)
 
-Here are some repos of the IRONHACK Data Analytics bootcamp projects that I've done to switch to the data science world:
+Here are some repos of the IRONHACK Data Analytics bootcamp projects that I did in 2020 to switch to the data science world:
 
 1. [Hangman game, programmed in Python (moddable)](https://github.com/ordovas/mini-project)
 2. [A word frequency based analysis of sharks attacks](https://github.com/ordovas/pandas-project)
