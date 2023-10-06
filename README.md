@@ -1,5 +1,5 @@
 # Data Scientist
-### Python | Machine Learning | Deep Learning | Numpy | Pandas | Computer Vision | Natural Language Processing | Azure ML | Matplotlib | LaTeX | IRAF | MongoDB | MySQL | TensorFlow | Keras | API | Web Scraping
+### Python | Machine Learning | Deep Learning | LangChain | Numpy | Pandas | Computer Vision | Natural Language Processing | Azure ML | Matplotlib | LaTeX | IRAF | MongoDB | MySQL | TensorFlow | Keras | API | Web Scraping
 
 
 Hi there! I’m a versatile data science consultant based in Madrid. I’m capable of helping clients to solve their problems creatively and handle complex databases to obtain precise, understandable and useful insights. With a strong scientific background and extensive experience as a Data Scientist, I thrive in the dynamic environment of professional consulting. Having contributed to cross-functional client projects and internal initiatives focused on ML pipelines, I excel in teamwork, meeting deadlines, and effectively communicating complex ideas to non-technical audiences. As a curious and fast learner, I continuously embrace the latest data science techniques, ensuring adaptability and delivering tangible results. My research expertise in the astrophysics field allows me to mine those shiny data spots hidden in the darkness.
@@ -26,7 +26,7 @@ Hi there! I’m a versatile data science consultant based in Madrid. I’m capab
 
 #### :earth_africa: Terrenal work:
 
-I’m always practicing and learning new tools to improve my data scientist and coding skills. These are some examples I did on my own unrelated with my current job:
+I’m always practicing and learning new tools to improve my data scientist and coding skills. These are some examples I did unrelated with my current job:
 
 -[A small Web scraping and RegEx exercise to mine the japanese hardware and softare video game sales.](https://github.com/ordovas/vg_jp_sales)
 
@@ -34,17 +34,7 @@ I’m always practicing and learning new tools to improve my data scientist and 
 
 -[Codewars exercises to practise SQL queries.](https://github.com/ordovas/SQLnotes)
 
--[Data Science demos deployed in Streamlit Cloud](https://share.streamlit.io/ordovas/private_streamlit_apps/main/app.py)
-
-Here are some repos of the IRONHACK Data Analytics bootcamp projects that I did in 2020 to switch to the data science world:
-
-1. [Hangman game, programmed in Python (moddable)](https://github.com/ordovas/mini-project)
-2. [A word frequency based analysis of sharks attacks](https://github.com/ordovas/pandas-project)
-3. [500 best albums of all time / Spotify API project](https://github.com/ordovas/pipelines-project)
-4. [GeoSpatial Data Project / Choosing the best location for a gaming company](https://github.com/ordovas/geospatial-data-project)
-5. [API chat project and text sentiment analysis](https://github.com/ordovas/chat-api.git)
-6. [Kaggle competition - Predicting diamonds prices](https://github.com/ordovas/kaggle-diamonds)
-7. **FINAL PROJECT:** [Dice Scores Recognition in image/video](https://github.com/ordovas/dice-scores-recognition)
+-[Dice Scores Recognition in image/video](https://github.com/ordovas/dice-scores-recognition)
 
 
 
