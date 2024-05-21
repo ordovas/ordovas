@@ -13,9 +13,7 @@ Hi there! I’m a versatile data science consultant based in Madrid. I’m capab
 <a href="mailto:ordovaspascual@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail&labelColor=white">
 </a>
-<a href="https://share.streamlit.io/ordovas/private_streamlit_apps/main/app.py">
-<img src="https://img.shields.io/badge/Data Science demos in Streamlit-white?style=flat&logo=Streamlit">
-</a>
+
 
 #### Certifications:
 
@@ -28,14 +26,22 @@ Hi there! I’m a versatile data science consultant based in Madrid. I’m capab
 
 I’m always practicing and learning new tools to improve my data scientist and coding skills. These are some examples I did unrelated with my current job:
 
--[A small Web scraping and RegEx exercise to mine the japanese hardware and softare video game sales.](https://github.com/ordovas/vg_jp_sales)
-
--[Predicting the numeric ratings of Amazon books review based exclusively on the text of the review.](https://github.com/ordovas/amazon_books_reviews)
-
--[Codewars exercises to practise SQL queries.](https://github.com/ordovas/SQLnotes)
+-[Library to create a LLM agent to create and execute on-the-fly code to perform simple DS tasks](https://github.com/ordovas/LazyDSGenerator)
 
 -[Dice Scores Recognition in image/video](https://github.com/ordovas/dice-scores-recognition)
 
+-[Predicting the numeric ratings of Amazon books review based exclusively on the text of the review.](https://github.com/ordovas/amazon_books_reviews)
+
+-[A small Web scraping and RegEx exercise to mine the japanese hardware and softare video game sales.](https://github.com/ordovas/vg_jp_sales)
+
+
+Other examples of my work outside GitHub:
+
+-[Microsoft IoT blog post: Retail Self-checkout Object Detection Solution](https://techcommunity.microsoft.com/t5/internet-of-things-blog/retail-self-checkout-object-detection-solution-using-azure/ba-p/3072914)
+
+-[Presentation I gave (with a coworker) about LLMs performance with mathematical operations.](https://www.youtube.com/live/KaiTZIsTBYk?si=fusV0_Osfi5NkrTR&t=4042)
+
+-[Cognizant blog post about a Computer Vision solution we've worked on.](https://www.cognizant.com/no/en/insights/blog/articles/from-personnel-based-operations-to-ai-driven-automated-maintenance)
 
 
 Feel free to have a look at other repositories with other exercises, learning notebooks & code or simple tests, even if they are uncomplete or not interesting enough to be shown in the profile.
